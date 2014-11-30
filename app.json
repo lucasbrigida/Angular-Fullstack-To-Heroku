@@ -1,0 +1,19 @@
+{
+  "name": "Angular-Fullstack",
+  "description": "Boilerplate of an application using the angular-fullstack generator",
+  "keywords": [
+    "angular-fullstack",
+    "mongodb",
+    "MEAN"
+  ],
+  "addons": [],
+  "env": {
+    "FACEBOOK_ID":      "id",
+    "FACEBOOK_SECRET":  "secret",
+    "TWITTER_ID":       "id",
+    "TWITTER_SECRET":   "secret",
+    "GOOGLE_ID":        "id",
+    "GOOGLE_SECRET":    "secret",
+    "MONGOLAB_URI":     "mongodb://<dbuser>:<dbpassword>@<dbdomain>:<port>/<dbname>"
+  }
+}
